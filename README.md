@@ -9,12 +9,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhOTl5NTc5YW9lNGRveGRkM
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjBnaDA0dWoycG14OTdjdnN2OGpqN3ZieGtwMHd4dzU4NTB6cnhzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nzVECHFGdHLuj7UySz/giphy.gif" width="60"/>
 
 # A game-dev at heart and core, so i like to dig into stuff and make them in a better way which looks beautiful, p.s i can design too
-.
-.
-.
-.
-.
-..
-<div align="center">
-  ![](https://githubusercontent.com)
-</div>
+.............................................................................
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
