@@ -11,7 +11,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhOTl5NTc5YW9lNGRveGRkM
 # A game-dev at heart and core, so i like to dig into stuff and make them in a better way which looks beautiful, p.s i can design too
 .............................................................................
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nichirindev/nichirindev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nichirindev/nichirindev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nichirindev/nichirindev/output/github-contribution-grid-snake.svg">
 </picture>
