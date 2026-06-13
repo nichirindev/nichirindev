@@ -7,3 +7,5 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhOTl5NTc5YW9lNGRveGRkM
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjBnaDA0dWoycG14OTdjdnN2OGpqN3ZieGtwMHd4dzU4NTB6cnhzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nFrXYT50Hq2SrgUKCC/giphy.gif" width="60"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjBnaDA0dWoycG14OTdjdnN2OGpqN3ZieGtwMHd4dzU4NTB6cnhzNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nzVECHFGdHLuj7UySz/giphy.gif" width="60"/>
+
+# A game-dev at heart and core, so i like to dig into stuff and make them in a better way which looks beautiful, p.s i can design too
