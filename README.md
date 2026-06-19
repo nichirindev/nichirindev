@@ -15,6 +15,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxhOTl5NTc5YW9lNGRveGRkM
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nichirindev/nichirindev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nichirindev/nichirindev/output/github-contribution-grid-snake-dark.svg">
 </picture>
-<div align="center">
+<!-- <div align="center">
 <img width="540" height="304" alt="1769023794695" src="https://github.com/user-attachments/assets/0c2756a0-4fe0-4f22-9a29-7675b7d730fa" />
-</div>
+</div> -->
